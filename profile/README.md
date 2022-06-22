@@ -1,12 +1,8 @@
-## Hi there 👋
+## OFDL Robotics Lab Taiwan
 
-<!--
+Welcome to OFDL Robotics Lab's organization on GitHub where we love all things open source.
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+* 💠 15+ LEGO Mindstroms EV3 Blocks and Tools. [Read our story](https://www.ibm.com/opensource/story/)
+* 🏅 Past season WRO, FLL program and building instruction open source!
+* 📖 Advanced program tips, course and resource for LEGO Mindstroms EV3, SPIKE, Robot Inventor!
+* 🔨 Play Arduino and other chip with LEGO Mindstroms!
