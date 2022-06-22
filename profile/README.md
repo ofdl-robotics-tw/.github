@@ -1,3 +1,4 @@
+<!--![](https://github.com/microsoft/.github/raw/main/images/open-at-microsoft.png)-->
 ## OFDL Robotics Lab Taiwan
 
 Welcome to OFDL Robotics Lab's organization on GitHub where we love all things open source.
