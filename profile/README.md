@@ -1,12 +1,10 @@
-<!--![](https://github.com/microsoft/.github/raw/main/images/open-at-microsoft.png)## OFDL Robotics Lab Taiwan-->
-
 ![](https://github.com/ofdl-robotics-tw/.github/blob/main/profile/OFDL_github_banner_tw.png?raw=true)
 Welcome to OFDL Robotics Lab's organization on GitHub where we love all things open source.
 
-* 💠 15+ LEGO Mindstroms EV3 Blocks and Useful Tools!
-* 🤖 Past season WRO, FLL program and building instruction open source!
-* 📖 Advanced programming tips, course and resource for LEGO Mindstroms EV3, SPIKE, Robot Inventor!
-* 🔨 Play Arduino and other chip with LEGO Mindstroms!
+* 💠 15+ LEGO® MINDSTORMS® EV3 Blocks and Useful Tools!
+* 🤖 Past season WRO, FLL program and building instructions open source!
+* 📖 Advanced programming tips, course and resource for LEGO® MINDSTORMS® NXT, EV3, SPIKE, Robot Inventor!
+* 🔨 Play Arduino and other MCU with LEGO® MINDSTORMS®!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
